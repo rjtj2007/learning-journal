@@ -16,5 +16,5 @@ We are learning a lot and I knew that this course would be a big shift in learni
 ##Code
 This week we were introduced to jQuery as a tool to write better, faster and more powerful java script. 
 
-Our labs explored replacing var with let and const. As well as creating a file system for CSS code using SMACSS (https://smacss.com/).
+Our labs explored replacing var with let and const. As well as creating a file system for CSS code using [SMACSS](https://smacss.com/).
     base.css, layout.css, modules.css, normalize.css(also known as reset).
